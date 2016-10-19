@@ -1,3 +1,4 @@
+http://stackoverflow.com/questions/12898052/antlr-how-to-skip-multiline-comments
 grammar fool;
 
 @header{
